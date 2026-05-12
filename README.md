@@ -14,31 +14,43 @@
   </tr>
  <tr>
     <td>Manual Testing</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/001-Manual-Testing-Documentation">Manual Testing</a></td>
+    <td><a href="001 - Manual Testing">Manual Testing</a></td>
   </tr>
   <tr>
-    <td>Java Tutorial</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/002-Java-Tutorial-Documentation">Java Tutorial</a></td>
+    <td>Test Planning and Execution</td>
+    <td><a href="002 - Test Planning and Exceution">Test Planning and Execution</a></td>
   </tr>
   <tr>
     <td>Git & Github</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/003-Git-Github/008%20-%20Git/001%20-%20Git.md">Git & Github</a></td>
+    <td><a href="003 - Git and GitHub">Git & Github</a></td>
   </tr>
   <tr>
-    <td>Jira Tool</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/004-Jira-Project-Managment-Tool/007-%20Jira">Jira Tool</a></td>
+    <td>Python Programming</td>
+    <td><a href="004 - Python Programming">Python Programming</a></td>
   </tr>
   <tr>
-    <td>Selenium</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/005-Selenium-Documentation">Selenium</a></td>
+    <td>MySQL</td>
+    <td><a href="005 - MySQL">MySQL</a></td>
   </tr>
   <tr>
-    <td>BDD-Cucumber</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/006-%20BDD-Cucumber">BDD-Cucumber</a></td>
+    <td>Selenium Framework</td>
+    <td><a href="006 - Selenium Framework">Selenium Framework</a></td>
   </tr>
   <tr>
-    <td>Database & JDBC Connectivity</td>
-    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/007-%20Database%20Connectivity">Database & JDBC Connectivity</a></td>
+    <td>Playwright Framework</td>
+    <td><a href="007 - Playwright Framework">Playwright Framework</a></td>
+  </tr>
+   <tr>
+    <td>Behave BDD Framework</td>
+    <td><a href="008 - Python Behave BDD Framework">Behave BDD Framework</a></td>
+  </tr>
+   <tr>
+    <td>Robot Framework</td>
+    <td><a href="009 - Robot Framework">Robot Framework</a></td>
+  </tr>
+   <tr>
+    <td>Jenkins</td>
+    <td><a href="010 - Jenkins">Jenkins</a></td>
   </tr>
 </table>
 </body>
